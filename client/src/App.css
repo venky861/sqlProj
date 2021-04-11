@@ -1,0 +1,15 @@
+body{
+	background-color: darkred;
+}
+
+button{
+	border: none;
+	color:white;
+	background-color: blue;
+	height:30px;
+}
+
+button:hover{
+	color:black;
+	background-color: white;
+}
